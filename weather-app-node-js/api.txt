@@ -1,0 +1,3 @@
+bf1a7ca78a02a067303266bd3b28606c
+
+api.openweathermap.org/data/2.5/weather?q=karachi&appid=bf1a7ca78a02a067303266bd3b28606c
